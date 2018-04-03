@@ -18,15 +18,12 @@ open localhost:3000
 yarn build
 ```
 
-## :sparkling_heart: Support my projects
+## :sparkling_heart: Free
 
-I like to contribute open-source projects. You can integrate and use this project in your applications *for free*! You can even change the source code and redistribute if like
+I like to contribute open-source projects. You can integrate and use this project in your applications *for free*! You can even change the source code and redistribute.
 
 Thanks! :heart:
 
 
-## :scroll: License
+<!-- ## :scroll: License -->
 
-[MIT][license] © [Ionică Bizău][website]
-
-[license]: http://showalicense.com/?fullname=Ionic%C4%83%20Biz%C4%83u%20%3Cbizauionica%40gmail.com%3E%20(https%3A%2F%2Fionicabizau.net)&year=2016#license-mit
